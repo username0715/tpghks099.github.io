@@ -6,8 +6,8 @@
 
 body {
     font-family: system-ui, -apple-system, sans-serif;
-    background-color: aquamarine;
-    color: azure;
+    background-color: #f5f5f7;
+    color: #111827;
     line-height: 1.6;
 }
 
@@ -21,7 +21,7 @@ body {
 
 .profile-card,
 .section-card {
-    background-color: bisque;
+    background-color: #ffffff;
     border-radius: 16px;
     padding: 24px 24px 20px;
     margin-bottom: 16px;
@@ -68,4 +68,5 @@ body {
     text-align: center;
     margin-top: 12px;
     color: #9ca3af;
+
 }
